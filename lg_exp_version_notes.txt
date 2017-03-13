@@ -1,0 +1,31 @@
+General notes about implementation of Loneliness Game (LG) Experiment:
+
+* Could remove/change bg04, haven't decided how yet
+* Mute sound (or remove/replace audio file entirely)
+
+
+Files that are the same across all versions:
+
+children_and_text.png now reads: You have reached the end of the game.
+
+many_report_text.png now reads: Please fill out the survey now.
+
+this_notgame_text.png now reads: You can start the survey by clicking on the button below this window.
+
+
+For Versions A1 and B1 (squares - control):
+
+loading_background.png now reads: 
+
+For Versions A2 and B2 (friends):
+
+loading_background.png now reads: This is a game about making friends. Use the arrow keys to move.
+
+For Versions A3 and B3 (pigeons):
+
+loading_background.png now reads:
+
+
+
+
+

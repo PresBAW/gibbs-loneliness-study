@@ -1,0 +1,36 @@
+/* Stylesheet for all Loneliness Game Experiment html files
+Created by Benjamin Wallsten */
+
+body {
+	background-color: black;
+}
+
+.wrapper {
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+.innerTop {
+	margin: auto;
+}
+
+.buttonWrapper {
+	text-align: center;
+	margin: auto;
+}
+
+.button {
+	position: absolute;
+    top: 50%;
+}
+
